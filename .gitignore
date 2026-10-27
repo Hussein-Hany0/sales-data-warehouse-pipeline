@@ -1,0 +1,17 @@
+﻿.env
+.env.*
+!.env.example
+
+.venv/
+__pycache__/
+*.py[cod]
+
+logs/
+airflow/logs/
+airflow/*.db
+airflow/*.db-*
+
+target/
+dbt_packages/
+.DS_Store
+Thumbs.db

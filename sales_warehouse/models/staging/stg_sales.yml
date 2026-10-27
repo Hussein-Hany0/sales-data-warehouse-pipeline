@@ -1,0 +1,26 @@
+
+version: 2
+
+models:
+  - name: stg_sales
+    description: "Staging model for raw sales data"
+    columns:
+      - name: order_id
+        data_tests:
+          - not_null
+
+      - name: order_date
+        data_tests:
+          - not_null
+
+      - name: customer_id
+        data_tests:
+          - not_null
+
+      - name: quantity
+        data_tests:
+          - not_null
+
+      - name: unit_price
+        data_tests:
+          - not_null

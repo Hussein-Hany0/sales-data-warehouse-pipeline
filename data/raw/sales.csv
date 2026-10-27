@@ -1,0 +1,9 @@
+﻿order_id,order_date,customer_id,product,quantity,unit_price,region
+1001,2026-01-05,C01,Laptop,2,15000,Cairo
+1002,2026-01-06,C02,Mouse,5,250,Alexandria
+1003,2026-01-07,C03,Keyboard,3,500,Cairo
+1004,2026-01-08,C01,Monitor,1,4500,Giza
+1005,2026-01-09,C04,Mouse,4,250,Alexandria
+1006,2026-01-10,C05,Laptop,1,15000,Cairo
+1006,2026-01-10,C05,Laptop,1,15000,Cairo
+1007,2026-01-11,C06,Keyboard,2,500,Giza
